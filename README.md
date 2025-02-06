@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/danrantino" target="blank"><img src="https://img.shields.io/twitter/follow/danrantino?logo=twitter&style=for-the-badge" alt="danrantino" /></a> </p>
 
-- 🔭 I’m currently working on **BPlus Tecnologia**
+- 🔭 I’m currently working on **VJ Systems**
 
 - 🌱 I’m currently learning **NextJS and NestJS**
 
-- 💬 Ask me about **React, Node**
+- 💬 Ask me about **React, Node and Java**
 
 - 📫 How to reach me **danielaugustofurst@hotmail.com**
 
