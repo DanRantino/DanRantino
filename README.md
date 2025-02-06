@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [https://www.cvkeep.com/cv/danrantino](https://www.cvkeep.com/cv/danrantino)
 
-- ⚡ Fun fact **I get nervous and start talking fast and loud**
+- ⚡ Fun fact **I get nervous and start talking fast and really loud**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
